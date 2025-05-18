@@ -10,3 +10,20 @@ using Apache Spark.
 
 ### 1.2 DataFrame Operations (Select, Filter, Join, GroupBy)
 ✦ [DataFrame Operations](Python%20Scripts/DataFrame%20Operations.ipynb)<br />
+
+## 2. Working with Data
+### 2.1 Reading & Writing Data (CSV, JSON, Parquet, Hive)
+### 2.2 Schema Inference & Manual Schema Definition
+### 2.3 Handling Missing or Corrupted Data
+
+## 3. Transformations & Actions
+### 3.1 Lazy Evaluation and Execution Plans
+### 3.2 Narrow vs Wide Transformations
+### 3.3 Chaining and Optimization Techniques
+
+## 4. PySpark SQL
+### 4.1 SQLContext and SparkSQL Queries
+### 4.2 Temporary Views and Tables
+✦ [Basics of Views in PySpark](Python%20Scripts/Basics%20of%20Views%20in%20PySpark.ipynb)<br />
+
+### 4.3 Using SQL and DataFrame APIs Together
