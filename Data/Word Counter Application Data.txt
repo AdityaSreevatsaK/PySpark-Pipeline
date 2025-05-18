@@ -1,0 +1,6 @@
+Python Java SQL
+Python Tensorflow
+Python Keras
+PyTorch Python
+SQL PostgreSQL
+SQL MySQL
