@@ -3,5 +3,5 @@ A collection of PySpark projects showcasing scalable data processing, transforma
 using Apache Spark.
 
 ## 1. Getting Started with PySpark
-✦ [Creating your First RDD with SparkSession](Python%20Scripts/Creating%20Your%20First%20RDD%20with%20SparkSession.py)<br />
-✦ [Word Counter Application](Python%20Scripts/Word%20Counter%20Application.py)<br />
+✦ [Creating your First RDD with SparkSession](Python%20Scripts/Creating%20Your%20First%20RDD%20with%20SparkSession.ipynb)<br />
+✦ [Word Counter Application](Python%20Scripts/Word%20Counter%20Application.ipynb)<br />
