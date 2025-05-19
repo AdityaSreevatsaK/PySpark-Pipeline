@@ -39,3 +39,18 @@ using Apache Spark.
 ### 4.3 Using SQL and DataFrame APIs Together
 
 ---
+## 5. Performance Tuning
+### 5.1 Partitioning & Caching Strategies
+### 5.2 Broadcast Joins & Skew Handling
+### 5.3 Catalyst Optimizer and Tungsten Engine
+
+---
+
+## 6. Machine Learning with PySpark (MLlib)
+### 6.1 ML Pipelines: Transformers & Estimators
+### 6.2 Feature Engineering (VectorAssembler, StringIndexer)
+✦ [Data Cleaning and Transformation Pipeline](Python%20Scripts/Data%20Cleaning%20and%20Transformation%20Pipeline.ipynb)<br />
+
+### 6.3 Classification, Regression, Clustering Models
+
+---
