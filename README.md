@@ -19,6 +19,8 @@ using Apache Spark.
 ## 3. Transformations & Actions
 ### 3.1 Lazy Evaluation and Execution Plans
 ### 3.2 Narrow vs Wide Transformations
+✦ [GroupByKey Vs ReduceByKey](Python%20Scripts/GroupByKey%20Vs%20ReduceByKey.ipynb)<br />
+
 ### 3.3 Chaining and Optimization Techniques
 
 ## 4. PySpark SQL
