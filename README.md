@@ -18,6 +18,8 @@ using Apache Spark.
 ✦ [Read Modes in PySpark](Python%20Scripts/Read%20Modes%20in%20PySpark.ipynb)<br />
 
 ### 2.2 Schema Inference & Manual Schema Definition
+✦ [Schema Inference And Definition](Python%20Scripts/Schema%20Inference%20And%20Definition.ipynb)<br />
+
 ### 2.3 Handling Missing or Corrupted Data
 
 ---
