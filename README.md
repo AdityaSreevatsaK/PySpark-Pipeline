@@ -1,6 +1,12 @@
 # <p align="center"> PySpark Pipeline </p>
-A collection of PySpark projects showcasing scalable data processing, transformation pipelines, and big data analytics 
-using Apache Spark.
+## <i>Scale. Transform. Analyse Big Data.</i>
+
+A curated collection of end-to-end PySpark projects designed to handle large-scale data processing. This repository 
+demonstrates how to build scalable data pipelines for cleaning, transforming, and analysing massive datasets using 
+Apache Spark. It includes practical implementations of Spark SQL, DataFrames, structured streaming, and performance 
+tuning — ideal for working with real-world big data workflows.
+
+---
 
 ## 1. Getting Started with PySpark
 ### 1.1 SparkSession, RDDs, and DataFrames
