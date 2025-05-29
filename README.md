@@ -21,6 +21,7 @@ tuning — ideal for working with real-world big data workflows.
 
 ## 2. Working with Data
 ### 2.1 Reading & Writing Data (CSV, JSON, Parquet, Hive)
+✦ [Create and Work with an RDD created from a text file](Python%20Scripts/Create%20and%20Work%20with%20an%20RDD%20created%20from%20a%20text%20file.ipynb)<br />
 ✦ [Read Modes in PySpark](Python%20Scripts/Read%20Modes%20in%20PySpark.ipynb)<br />
 
 ### 2.2 Schema Inference & Manual Schema Definition
