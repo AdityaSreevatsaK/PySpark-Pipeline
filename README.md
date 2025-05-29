@@ -13,6 +13,7 @@ tuning — ideal for working with real-world big data workflows.
 ✦ [Creating your First RDD with SparkSession](Python%20Scripts/Creating%20Your%20First%20RDD%20with%20SparkSession.ipynb)<br />
 ✦ [Word Counter Application](Python%20Scripts/Word%20Counter%20Application.ipynb)<br />
 ✦ [DataFrame Basics](Python%20Scripts/DataFrame%20Basics.ipynb)<br />
+✦ [Processing Sports Items Data with RDDs, DataFrames, and Spark SQL](Python%20Scripts/)<br />
 
 ### 1.2 DataFrame Operations (Select, Filter, Join, GroupBy)
 ✦ [DataFrame Operations](Python%20Scripts/DataFrame%20Operations.ipynb)<br />
