@@ -13,7 +13,7 @@ tuning — ideal for working with real-world big data workflows.
 ✦ [Creating your First RDD with SparkSession](Python%20Scripts/Creating%20Your%20First%20RDD%20with%20SparkSession.ipynb)<br />
 ✦ [Word Counter Application](Python%20Scripts/Word%20Counter%20Application.ipynb)<br />
 ✦ [DataFrame Basics](Python%20Scripts/DataFrame%20Basics.ipynb)<br />
-✦ [Processing Sports Items Data with RDDs, DataFrames, and Spark SQL](Python%20Scripts/)<br />
+✦ [Processing Sports Items Data with RDDs, DataFrames, and Spark SQL](Python%20Scripts/Processing%20Sports%20Items%20Data%20with%20RDDs,%20DataFrames,%20and%20Spark%20SQL.ipynb)<br />
 ✦ [Age Group Segmentation of Air Passengers Using Spark RDDs](Python%20Scripts/Age%20Group%20Segmentation%20of%20Air%20Passengers%20Using%20Spark%20RDDs.ipynb)<br />
 ✦ [Survey Answer Frequency Analysis via Spark RDDs](Python%20Scripts/Survey%20Answer%20Frequency%20Analysis%20via%20Spark%20RDDs.ipynb)<br />
 
