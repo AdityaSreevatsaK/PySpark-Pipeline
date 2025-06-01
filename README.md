@@ -66,5 +66,6 @@ tuning — ideal for working with real-world big data workflows.
 ✦ [Data Cleaning and Transformation Pipeline](Python%20Scripts/Data%20Cleaning%20and%20Transformation%20Pipeline.ipynb)<br />
 
 ### 6.3 Classification, Regression, Clustering Models
+✦ [Mumbai House Price Regression Using PySpark ML Components](Python%20Scripts/Mumbai%20House%20Price%20Regression%20Using%20PySpark%20ML%20Components.ipynb)<br />
 
 ---
