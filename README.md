@@ -4,7 +4,7 @@
 A curated collection of end-to-end PySpark projects designed to handle large-scale data processing. This repository 
 demonstrates how to build scalable data pipelines for cleaning, transforming, and analysing massive datasets using 
 Apache Spark. It includes practical implementations of Spark SQL, DataFrames, structured streaming, and performance 
-tuning — ideal for working with real-world big data workflows.
+tuning - ideal for working with real-world big data workflows.
 
 ---
 
@@ -66,6 +66,7 @@ tuning — ideal for working with real-world big data workflows.
 ✦ [Data Cleaning and Transformation Pipeline](Python%20Scripts/Data%20Cleaning%20and%20Transformation%20Pipeline.ipynb)<br />
 
 ### 6.3 Classification, Regression, Clustering Models
+✦ [Full Workflow for Regression or Classification in PySpark MLlib](Python%20Scripts/Full%20Workflow%20for%20Regression%20or%20Classification%20in%20PySpark%20MLlib.ipynb)<br />
 ✦ [Mumbai House Price Regression Using PySpark ML Components](Python%20Scripts/Mumbai%20House%20Price%20Regression%20Using%20PySpark%20ML%20Components.ipynb)<br />
 
 ---
