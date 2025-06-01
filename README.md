@@ -36,6 +36,8 @@ tuning — ideal for working with real-world big data workflows.
 
 ## 3. Transformations & Actions
 ### 3.1 Lazy Evaluation and Execution Plans
+✦ [Filter Log Lines Containing INFO Using RDD](Python%20Scripts/Filter%20Log%20Lines%20Containing%20INFO%20Using%20RDD.ipynb)<br />
+
 ### 3.2 Narrow vs Wide Transformations
 ✦ [GroupByKey Vs ReduceByKey](Python%20Scripts/GroupByKey%20Vs%20ReduceByKey.ipynb)<br />
 

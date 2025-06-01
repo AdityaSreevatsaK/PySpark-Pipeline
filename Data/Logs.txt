@@ -1,0 +1,6 @@
+INFO Starting the application
+DEBUG Initializing modules
+ERROR Failed to connect to server
+INFO Application running smoothly
+WARN Low disk space
+INFO Shutdown complete
