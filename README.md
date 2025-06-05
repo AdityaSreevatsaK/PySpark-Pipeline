@@ -65,8 +65,13 @@ tuning - ideal for working with real-world big data workflows.
 ### 6.2 Feature Engineering (VectorAssembler, StringIndexer)
 ✦ [Data Cleaning and Transformation Pipeline](Python%20Scripts/Data%20Cleaning%20and%20Transformation%20Pipeline.ipynb)<br />
 
-### 6.3 Classification, Regression, Clustering Models
+### 6.3 Regression, Classification & Clustering Models
 ✦ [Full Workflow for Regression or Classification in PySpark MLlib](Python%20Scripts/Full%20Workflow%20for%20Regression%20or%20Classification%20in%20PySpark%20MLlib.ipynb)<br />
+
+#### 6.3.1 Regression
 ✦ [Mumbai House Price Regression Using PySpark ML Components](Python%20Scripts/Mumbai%20House%20Price%20Regression%20Using%20PySpark%20ML%20Components.ipynb)<br />
+✦ [Bengaluru House Price Prediction](Python%20Scripts/Bengaluru%20House%20Price%20Prediction.ipynb)<br />
+
+#### 6.3.2 Classification
 
 ---
